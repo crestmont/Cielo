@@ -2,7 +2,6 @@
 # This is my first program in python, Its name is Cielo.
 #
 # Name of program: Cielo
-# Author: Peehu Sehrawat
 # Date: 13/07/2019
 ###############################################################################
 
